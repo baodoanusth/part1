@@ -1,0 +1,4 @@
+/home/baodoan/Desktop/build-videos_list-Desktop_Qt_5_6_1_GCC_64bit-Debug/movie/SampleVideo_1280x720_50mb.avi
+/home/baodoan/Desktop/build-videos_list-Desktop_Qt_5_6_1_GCC_64bit-Debug/movie/SampleVideo_1280x720_30mb.mp4
+/home/baodoan/Desktop/build-videos_list-Desktop_Qt_5_6_1_GCC_64bit-Debug/movie/SampleVideo_1280x720_50mb.mkv
+/home/baodoan/Desktop/build-videos_list-Desktop_Qt_5_6_1_GCC_64bit-Debug/movie/SampleVideo_1280x720_50mb.mp4
